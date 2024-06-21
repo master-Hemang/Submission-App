@@ -1,0 +1,8 @@
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.AssemblyReference.cache
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.Form1.resources
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.Resources.resources
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.GenerateResource.cache
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.CoreCompileInputs.cache
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.CreateSubmissionForm.resources
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.ViewSubmissionsForm.resources
+C:\Users\heman\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.Submission.resources

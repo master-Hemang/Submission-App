@@ -1,0 +1,16 @@
+﻿Imports System.Net.Http
+Imports System.Net.Http.Headers
+Imports Newtonsoft.Json
+Imports System.Text
+
+Public Class Form1
+    Private Sub btnViewSubmissions_Click(sender As Object, e As EventArgs) Handles btnViewSubmissions.Click
+        Dim viewForm As New ViewSubmissionsForm()
+        viewForm.Show()
+    End Sub
+
+    Private Sub btnCreateSubmission_Click(sender As Object, e As EventArgs) Handles btnCreateSubmission.Click
+        Dim createForm As New CreateSubmissionForm()
+        createForm.Show()
+    End Sub
+End Class
